@@ -2,7 +2,7 @@
 ## Playtest
 
 ## Play the game
-Play the game prototype [here] (../prototype/TheInvasionPrototype.html)
+Play the game prototype [here](https://historybirdman.github.io/IASC-1P04/Prototype/TheInvasionPrototype.html)
 
 ## Complete the playtest survey
 
