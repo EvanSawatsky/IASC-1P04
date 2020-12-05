@@ -62,3 +62,7 @@ Attribution
 "Dark box in light box" by zubrow  is licensed with CC BY-NC 2.0. 
 
 ---
+
+"Grosso_Stairwell" by dgrosso23 is licensed under CC BY 2.0
+
+---
