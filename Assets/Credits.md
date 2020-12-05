@@ -59,3 +59,6 @@ Attribution
 
 ---
 
+"Dark box in light box" by zubrow  is licensed with CC BY-NC 2.0. 
+
+---
