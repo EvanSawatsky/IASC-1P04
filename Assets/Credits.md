@@ -18,4 +18,11 @@ Creative Commons
 
 ---
 
+"computer_lab" by BugInTheSYS
+2010 - Licensed Under 
+Creative Commons 
+0 License
+
+---
+
 
