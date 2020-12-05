@@ -26,12 +26,4 @@ Creative Commons
 
 ---
 
-"earthquake" by dingus23
-
-2015 - Licensed Under 
-Creative Commons 
-Attribution
-
----
-
 
