@@ -19,9 +19,18 @@ Creative Commons
 ---
 
 "computer_lab" by BugInTheSYS
+
 2010 - Licensed Under 
 Creative Commons 
 0 License
+
+---
+
+"earthquake" by dingus23
+
+2015 - Licensed Under 
+Creative Commons 
+Attribution
 
 ---
 
