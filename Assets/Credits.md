@@ -44,7 +44,6 @@ Creative Commons
 
 "growl1" by ubecareful
 
-
 2006 - Licensed Under 
 Creative Commons 
 0 License
@@ -68,8 +67,29 @@ Attribution
 ---
 
 "stepping on glass" by jchiledred
+
 2018 - Licensed Under 
 Creative Commons 
 Attribution
+
+---
+
+"Heartbeats 61" by patobottos
+
+2016 - Licensed Under 
+Creative Commons 
+0 License
+
+---
+
+"basement" by deranged
+
+2013 - Licensed Under 
+Creative Commons 
+0 License
+
+---
+
+"Maintenance Tunnel 1" by Hoffheins is licensed under CC BY-NC-ND 2.0
 
 ---
